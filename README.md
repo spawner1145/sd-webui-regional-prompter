@@ -1,3 +1,8 @@
+# 要用我改过的forge
+
+
+
+
 # Regional Prompter
 ![top](https://github.com/hako-mikan/sd-webui-regional-prompter/blob/imgs/top2.jpg)
 - custom script for [AUTOMATIC1111's stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 
