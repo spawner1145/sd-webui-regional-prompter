@@ -1,6 +1,6 @@
 import math
 from pprint import pprint
-import ldm.modules.attention as atm
+from ldm_patched.ldm.modules import attention as atm
 import torch
 import torchvision
 import torchvision.transforms.functional as F
